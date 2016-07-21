@@ -4,4 +4,4 @@ Git has a mutable index called git.
 Git tracks changes.
 Git push to remote repo.
 Git edit in dev.
-Create a new branch is quick & simple.
+Create a new branch is quick and simple.
